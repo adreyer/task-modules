@@ -1,0 +1,4 @@
+{
+  "description": "Disable the puppet agent",
+  "parameters": { }
+}

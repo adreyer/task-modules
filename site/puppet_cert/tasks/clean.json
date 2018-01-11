@@ -1,0 +1,9 @@
+{
+  "description": "Clean a certificate on the CA",
+  "parameters": {
+    "host": {
+      "description": "The certname of the host to clean",
+      "type": "String[1]"
+    }
+  }
+}

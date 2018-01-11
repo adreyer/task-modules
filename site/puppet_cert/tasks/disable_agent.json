@@ -1,0 +1,9 @@
+{
+  "description": "Disable the puppet agent",
+  "parameters": {
+    "message": {
+      "description": "Why is the agent disabled",
+      "type": "Optional[String]"
+    }
+  }
+}
